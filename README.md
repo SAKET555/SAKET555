@@ -7,10 +7,10 @@ As a Third Year Computer Science Engineering student, I am extremely passionate 
   <a href="https://linkedin.com/in/SAKET HEGDE" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saket Hegde LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:saket555tech@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:saket555tech@gmail.com">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Saket Hegde Email" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/SAKET1680509" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/SAKET1680509" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saket Hegde Twitter" height="30" width="40" />
   </a>
 </div>
