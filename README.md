@@ -3,7 +3,7 @@ As a Third Year Computer Science Engineering student, I am extremely passionate 
 
 
 ## 🌐 Socials:
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/SAKET HEGDE" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saket Hegde LinkedIn" height="30" width="40" />
   </a>
